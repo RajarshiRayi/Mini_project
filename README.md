@@ -31,3 +31,9 @@ Lets Jump In to the project:
 **Note**: Here we will not discuss the training of the images because of it takes lots of time. And recommended Training algorithm is CNN(Convitional Neural Networks)
 
 **First Step is to download the data which is given in the github **
+
+![Screenshot (80)](https://user-images.githubusercontent.com/100516519/191663270-d307a819-b8e0-43ea-94e9-c6fe6ebadfce.png)
+
+And Extract the file.
+
+**Step 2: **
