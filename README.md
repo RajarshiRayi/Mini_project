@@ -38,3 +38,9 @@ And Extract the file.
 
 **Step 2:**
 Install Anaconda Navigator. Before that you need to collect the images to recognition.
+
+**Step 3:**
+Now Follow the User-manual instruction you will get the idea of how to do the process.
+
+**Note:**
+I only showed the process in my visulization only but you can do more if you know how to do. Never stop learning.
